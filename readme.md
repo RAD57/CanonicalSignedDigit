@@ -1,4 +1,4 @@
-# 私を読んで
+# README (CSD表現について)
 
 ## CSD(Canonical Signed Digit)表現とは
 
